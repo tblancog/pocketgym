@@ -1,0 +1,80 @@
+[{
+    "name": "abs",
+    "label": "Abs",
+    "desc": "Abdominales",
+    "img": "images/abs/abs.png",
+    "exercises": [{"name": "crunch_ligas", "label": "Crunch / Ligas", "desc": "Crunch con ligas",  "img": "images/abs/crunch_ligas.png" },
+                  {"name": "crunch_3n", "label": "Crunch 3N", "desc": "Crunch 3 Niveles", "img": "images/abs/crunch_3n.png" },
+                  {"name": "crunch_lat", "label": "Crunch Lateral", "desc": "Crunch Lateral", "img": "images/abs/crunch_lat.png" },
+                  {"name": "pelota_suiza", "label": "Pelota Suiza", "desc": "Flexión Y Extensión De Codos Con Pelota Suiza", "img": "images/abs/pelota_suiza.png" },
+                  {"name": "puente_lat", "label": "Puente Lateral", "desc": "Puente Lateral", "img": "images/abs/puente_lat.png" }
+                ]
+}, {
+    "name": "biceps",
+    "label": "Biceps",
+    "desc": "Biceps",
+    "img": "images/biceps/biceps.png",
+    "exercises": [{"name": "biceps_mancuerna", "label": "Biceps / Mancuerna", "desc": "Biceps Con Mancuerna Alternado", "img": "images/biceps/biceps_mancuerna.png" },
+                  {"name": "curl_liga", "label": "Crunch 2N" , "desc": "Curl de biceps con liga", "img": "images/biceps/curl_liga.png" },
+                  {"name": "scott_liga", "label": "Scott / Liga" , "desc": "Scott con liga", "img": "images/biceps/scott_liga.png" }
+                ]
+}, {
+    "name": "calentamiento",
+    "label": "Calentamiento",
+    "desc": "Antes de  cualquier actividad física",
+    "img": "images/calentamiento/calentamiento.png",
+    "exercises": [{"name": "calentamiento", "label": "Calentamiento" }]
+},{
+    "name": "espalda",
+    "label": "Espalda",
+    "desc": "Ejercicios De Espalda",
+    "img": "images/espalda/espalda.png",
+    "exercises": [{"name": "lumbar", "label": "Lumbar", "desc": "Lumbar", "img": "images/espalda/lumbar.png" },
+                  {"name": "pull_down", "label": "Pull down / Liga" , "desc": "Pull down con liga y en piso estático", "img": "images/espalda/pull_liga.png" },
+                  {"name": "remo_liga", "label": "Remo / Liga" , "desc": "Remo horizontal con ligas", "img": "images/espalda/remo_liga.png" },
+                  {"name": "remo_mancuernas", "label": "Remo / Mancuernas" , "desc": "Remo horizontal con mancuernas", "img": "images/espalda/remo_mancuernas.png" },
+                  {"name": "serrucho_mancuernas", "label": "Serrucho / mancuernas" , "desc": "Serrucho con mancuernas", "img": "images/espalda/serrucho_mancuernas.png" }]
+  },{
+    "name": "hombros",
+    "label": "Hombros",
+    "desc": "Ejercicios de hombros",
+    "img": "images/hombros/hombros.png",
+    "exercises": [{"name": "frontal_mancuernas", "label": "Frontal / Mancuernas", "desc": "Frontal con Mancuernas", "img": "images/hombros/frontal_mancuernas.png" },
+                  {"name": "lateral_ligas", "label": "Lateral / Ligas" , "desc": "Lateral con Ligas", "img": "images/hombros/lateral_ligas.png" },
+                  {"name": "lateral_mancuernas", "label": "Lateral / Mancuernas" , "desc": "Lateral con Mancuernas y Elevación de Piernas", "img": "images/hombros/lateral_mancuernas.png" },
+                  {"name": "posterior_ligas", "label": "Posterior / Ligas" , "desc": "Posterior con Ligas", "img": "images/hombros/posterior_ligas.png" },
+                  {"name": "press_militar", "label": "Press Militar" , "desc": "Press Militar con Ligas", "img": "images/hombros/press_militar.png" }]
+    },
+    {
+    "name": "piernas",
+    "label": "Piernas",
+    "desc": "Ejercicios de Piernas",
+    "img": "images/piernas/piernas.png",
+    "exercises": [{"name": "longue_movilidad", "label": "Longue / Movilidad", "desc": "Longue con Movilidad", "img": "images/piernas/longue_movilidad.png" },
+                  {"name": "longue_lateral", "label": "Longue / Movilidad" , "desc": "Longue con Movilidad Lateral", "img": "images/piernas/longue_lateral.png" },
+                  {"name": "longue_estatico", "label": "Longue Estático" , "desc": "Longue Estático", "img": "images/piernas/longue_estatico.png" },
+                  {"name": "peso_muerto", "label": "Peso Muerto" , "desc": "Peso Muerto", "img": "images/piernas/peso_muerto.png" },
+                  {"name": "sentadillas_ligas", "label": "Sentadillas / Ligas" , "desc": "Sentadillas con Ligas", "img": "images/piernas/sentadillas_ligas.png" },
+                  {"name": "sentadillas_mancuernas", "label": "Sentadillas / Mancuernas" , "desc": "Sentadillas con Mancuernas", "img": "images/piernas/sentadillas_mancuernas.png" }]
+    },
+    {
+    "name": "tabata",
+    "label": "Tabata",
+    "desc": "Ejercicios Tabata",
+    "img": "images/tabata/tabata.png",
+    "exercises": [{"name": "tabata_1", "label": "Tabata #1", "desc": "Tabata #1", "img": "images/tabata/tabata_1.png" },
+                  {"name": "tabata_2", "label": "Tabata #2", "desc": "Tabata #2", "img": "images/tabata/tabata_2.png" }
+                ]
+    },
+    {
+    "name": "triceps",
+    "label": "Triceps",
+    "desc": "Ejercicios Triceps",
+    "img": "images/triceps/triceps.png",
+    "exercises": [{"name": "copa_1_mano", "label": "Copa / mano", "desc": "Copa una sola mano", "img": "images/triceps/copa_1_mano.png" },
+                  {"name": "fondos", "label": "Fondos", "desc": "Fondos", "img": "images/triceps/fondos.png" },
+                  {"name": "patada_ligas", "label": "Patada / Ligas", "desc": "Patada Triceps con Ligas", "img": "images/triceps/patada_ligas.png" },
+                  {"name": "patada_triceps", "label": "Patada / Triceps", "desc": "Patada de Triceps", "img": "images/triceps/patada_triceps.png" }
+                ]
+    }
+]
